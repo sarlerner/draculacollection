@@ -4,31 +4,31 @@
     xmlns:cd="https://github.com/sarlerner/draculacollection" xmlns:mods="http://www.loc.gov/mods/v3"
     xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <cd:Id>CD_BK_012.1897</cd:Id>
-    <cd:title>Dracula</cd:title>
-    <cd:dracula>Dracula, Count(ficticious character)</cd:dracula>
+    <cd:Id>CD_BK_013.1871</cd:Id>
+    <cd:title>Carmilla</cd:title>
+    <cd:dracula>Mircalla, Countess Karnstein</cd:dracula>
+    <cd:bsdRelation>Before</cd:bsdRelation>
     
     <cd:modsSection>
         <mods:mods>
             <mods:name type="personal" authority="NAF">
-                <mods:namePart>Stoker, Bram, 1847-1912</mods:namePart>
+                <mods:namePart>Le Fanu, Joseph Sheridan, 1814-1873</mods:namePart>
                 <mods:role>
                     <mods:roleTerm type="text" authority="marcrelator">Author</mods:roleTerm>
                 </mods:role>
             </mods:name>
             <mods:typeOfResource>text</mods:typeOfResource>
-            <mods:genre authority="LCSH">Vampires</mods:genre>
+            <mods:genre authority="LCSH">Lesbian vampires</mods:genre>
             <mods:subject>
-                <mods:geographic authority="marccountry">Transylvania</mods:geographic>
-                <mods:geographic authority="marccountry">England</mods:geographic>
-                <mods:temporal>Late 19th Century</mods:temporal>
+                <mods:geographic authority="marccountry">Austria</mods:geographic>
+                <mods:temporal>19th Century</mods:temporal>
             </mods:subject>
             <mods:originInfo>
-                <mods:dateCreated>May 26, 1897</mods:dateCreated>
-                <mods:dateIssued>2014</mods:dateIssued>
-                <mods:publisher>Roads Publishing</mods:publisher>
+                <mods:dateCreated>1871-1872</mods:dateCreated>
+                <mods:dateIssued>2009</mods:dateIssued>
+                <mods:publisher>Serenity Publishers</mods:publisher>
                 <mods:place>
-                    <mods:placeTerm authority="marccountry">England</mods:placeTerm>
+                    <mods:placeTerm authority="marccountry">Ireland</mods:placeTerm>
                 </mods:place>
             </mods:originInfo>
             <mods:language>
@@ -36,15 +36,15 @@
             </mods:language>
             <mods:physicalDescription>
                 <mods:form type="material" authority="aat">paperback</mods:form>
-                <mods:extent>484 pages ; 5.3x1.1x7.3 in.</mods:extent>
+                <mods:extent>110 pages</mods:extent>
             </mods:physicalDescription>
-            <mods:abstract>An unabridged edition of the original Dracula novel, written by Bram Stoker.</mods:abstract>
+            <mods:abstract>An early work of vampire fiction by Irish author Joseph Sheridan Le Fanu, predating Dracula by 26 years.</mods:abstract>
             <mods:location>
                 <mods:physicalLocation>Fake University, Special Collections Research Center</mods:physicalLocation>
                 <mods:holdingSimple>
                     <mods:copyInformation>
                         <mods:subLocation>Dracula Special Collections Room</mods:subLocation>
-                        <mods:shelfLocator>Aisle 1A, Shelf 2</mods:shelfLocator>
+                        <mods:shelfLocator>Aisle 1A, Shelf 1</mods:shelfLocator>
                     </mods:copyInformation>
                 </mods:holdingSimple>
             </mods:location>
@@ -54,5 +54,5 @@
             </mods:recordInfo>
         </mods:mods>
     </cd:modsSection>
- 
+
 </cd:Count_Dracula>
