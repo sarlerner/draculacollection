@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cd:Count_Dracula xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://github.com/sarlerner/draculacollection https://raw.githubusercontent.com/sarlerner/draculacollection/master/DraculaSchema.xsd"
+    xmlns:cd="https://github.com/sarlerner/draculacollection" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    
+    <cd:Id>CD_SR_009.2011</cd:Id>
+    <cd:title>Dracula, the Musical - The Studio Cast Recording</cd:title>
+    <cd:bsdRelation>After</cd:bsdRelation>
+    
+    <cd:modsSection>
+        <mods:mods>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Wildhorn, Frank</mods:namePart>
+                <mods:role>              
+                    <mods:roleTerm type="text" authority="marcrelator">Composer</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Roberts, Jeremy Dale, 1934-</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator">Conductor</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Black, Don</mods:namePart>
+                <mods:role>              
+                    <mods:roleTerm type="text" authority="marcrelator">Lyricist</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Hampton, Christopher, 1946-</mods:namePart>
+                <mods:role>              
+                    <mods:roleTerm type="text" authority="marcrelator">Lyricist</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:typeOfResource>sound recording-musical</mods:typeOfResource>
+            <mods:genre authority="LCSH">Musicals</mods:genre>
+            <mods:genre authority="LCSH">Theatrical adaptations</mods:genre>
+            <mods:genre authority="LCSH">Vampires--Drama</mods:genre>
+            <mods:genre authority="LCSH">Vampires--Fiction</mods:genre>
+            <mods:subject>
+                <mods:geographic authority="marccountry">Romania</mods:geographic>
+                <mods:geographic authority="marccountry">England</mods:geographic>
+            </mods:subject>
+            <mods:originInfo>
+                <mods:dateIssued>June 6, 2011</mods:dateIssued>
+                <mods:publisher>GlobalVision Records, LLC</mods:publisher>
+            </mods:originInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="rfc5646">en-US</mods:languageTerm>
+            </mods:language>
+            <mods:physicalDescription>
+                <mods:form type="technique" authority="aat">sound recording</mods:form>
+                <mods:form type="material" authority="aat">compact disc</mods:form>
+                <mods:extent>1 compact disc (45 min.)</mods:extent>
+            </mods:physicalDescription>
+            <mods:abstract>Studio cast recording of Frank Wildhorn's score for Dracula, the Musical. Based on the original Victorian novel by Bram Stoker.</mods:abstract>
+            <mods:note>Valhalla Symphonia conducted by Jeremy Roberts.</mods:note>
+            <mods:note type="performers">James Barbour, Kate Shindle, Lauren Kennedy, Rob Evan, Norm Lewis, Euan Morton</mods:note>
+            <mods:location>
+                <mods:physicalLocation>Fake University, Special Collections Research Center</mods:physicalLocation>
+                <mods:holdingSimple>
+                    <mods:copyInformation>
+                        <mods:subLocation>Dracula Special Collection Room</mods:subLocation>
+                        <mods:shelfLocator>Aisle 3B, Shelf 8</mods:shelfLocator>
+                    </mods:copyInformation>
+                </mods:holdingSimple>
+            </mods:location>
+            <mods:recordInfo>
+                <mods:recordCreationDate>July 25, 2018</mods:recordCreationDate>
+                <mods:recordOrigin>human generated</mods:recordOrigin>
+            </mods:recordInfo>
+        </mods:mods>
+    </cd:modsSection>
+    
+    <cd:dcSection>
+        <dc:source>Bram Stoker's Dracula</dc:source>
+    </cd:dcSection>
+    
+</cd:Count_Dracula>
