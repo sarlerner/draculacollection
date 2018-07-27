@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cd:Count_Dracula xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://github.com/sarlerner/draculacollection https://raw.githubusercontent.com/sarlerner/draculacollection/master/DraculaSchema.xsd"
+    xmlns:cd="https://github.com/sarlerner/draculacollection"
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+    <cd:Id>CD_DVD_002.1931</cd:Id>
+    <cd:title>Dracula</cd:title>
+    <cd:dracula>Lugosi, Bela, 1882-1956</cd:dracula>
+    <cd:bsdRelation>Film Adaptation</cd:bsdRelation>
+
+    <cd:modsSection>
+        <mods:mods>
+            <mods:titleInfo type="uniform" authority="ulan">
+                <mods:title>Dracula (Motion picture : 1931)</mods:title>
+                <mods:title>Dracula</mods:title>
+            </mods:titleInfo>
+
+
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Browning, Tod, 1880-1962</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="code">fmd</mods:roleTerm>
+                    <mods:roleTerm authority="marcrelator" type="text">film director</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Lugosi, Bela, 1882-1956</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="code">act</mods:roleTerm>
+                    <mods:roleTerm authority="marcrelator" type="text">actor</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Chandler, Helen, 1906-1965</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="code">act</mods:roleTerm>
+                    <mods:roleTerm authority="marcrelator" type="text">actor</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Frye, Dwight, 1899-1943</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="code">act</mods:roleTerm>
+                    <mods:roleTerm authority="marcrelator" type="text">actor</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Van Sloan, Ed. (Edward), 1882-1964</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="code">act</mods:roleTerm>
+                    <mods:roleTerm authority="marcrelator" type="text">actor</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Deane, Hamilton</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="code">aus</mods:roleTerm>
+                    <mods:roleTerm authority="marcrelator" type="text">screen writer</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Balderston, John L. (John Lloyd), 1889-1954</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="code">aus</mods:roleTerm>
+                    <mods:roleTerm authority="marcrelator" type="text">screen writer</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+
+
+
+            <mods:typeOfResource>moving image</mods:typeOfResource>
+
+            <mods:genre authority="lcsh">DVD</mods:genre>
+            <mods:genre authority="lcsh">motion picture</mods:genre>
+
+            <mods:originInfo>
+                <mods:dateCreated>1931</mods:dateCreated>
+                <mods:place>
+                    <mods:placeTerm authority="marccountry">xxu</mods:placeTerm>
+                </mods:place>
+            </mods:originInfo>
+
+            <mods:language>
+                <mods:languageTerm authority="rfc5646">en</mods:languageTerm>
+            </mods:language>
+
+            <mods:physicalDescription>
+                <mods:form type="technique" authority="aat">motion picture (visual works)</mods:form>
+                <mods:form type="material" authority="aat">dvd</mods:form>
+            </mods:physicalDescription>
+
+            <mods:abstract displayLabel="contentDescription">Bela Lugosi’s performance  in this early American film has become the standard setting template for the character Dracula ever since. This incarnation of Dracula sees the character going from monster to charismatic antihero for the first time. 75 minutes.
+    </mods:abstract>
+
+            <mods:subject>
+                <mods:topic authority="lcsh">Vampires</mods:topic>
+            </mods:subject>
+            <mods:subject>
+                <mods:topic authority="lcsh">Vampires--fiction</mods:topic>
+            </mods:subject>
+            <mods:subject>
+                <mods:topic authority="lcsh">Horror</mods:topic>
+            </mods:subject>
+            <mods:subject>
+                <mods:topic authority="lcsh">Dracula, Count (Fictitious character)</mods:topic>
+            </mods:subject>
+
+            <mods:relatedItem type="original">
+                <mods:titleInfo type="uniform" authority="lcsh">
+                    <mods:title>Stoker, Bram, 1847-1912. Dracula.</mods:title>
+                    <mods:title>Dracula</mods:title>
+                </mods:titleInfo>
+            </mods:relatedItem>
+
+            <mods:location>
+                <mods:physicalLocation>Fake University, Special Collections Research Center</mods:physicalLocation>
+                <mods:holdingSimple>
+                    <mods:copyInformation>
+                        <mods:subLocation>Dracula Special Collections Room</mods:subLocation>
+                        <mods:shelfLocator>Aisle 3A, Shelf 2</mods:shelfLocator>
+                    </mods:copyInformation>
+                </mods:holdingSimple>
+            </mods:location>
+
+            <mods:recordInfo>
+                <mods:recordCreationDate>July 1, 2018</mods:recordCreationDate>
+                <mods:recordOrigin>human generated</mods:recordOrigin>
+                <mods:recordIdentifier>X</mods:recordIdentifier>
+            </mods:recordInfo>
+        </mods:mods>
+    </cd:modsSection>
+
+    <cd:dcSection>
+        <dc:source>Bram Stoker's Dracula</dc:source>
+        <dc:format xsi:type="dcterms:IMT">DVD</dc:format>
+    </cd:dcSection>
+
+</cd:Count_Dracula>
