@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cd:Count_Dracula xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="https://github.com/sarlerner/draculacollection https://raw.githubusercontent.com/sarlerner/draculacollection/master/DraculaSchema.xsd"
+ xmlns:cd="https://github.com/sarlerner/draculacollection" xmlns:mods="http://www.loc.gov/mods/v3"
+ xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+ xmlns:dc="http://purl.org/dc/elements/1.1/">
+    
+    <cd:Id>CD_SR_008.1996</cd:Id>
+    <cd:title>FEENEY: Dracula</cd:title>
+    <cd:dracula>Malinkine, Denis</cd:dracula>
+    <cd:bsdRelation>After</cd:bsdRelation>
+    
+    <cd:modsSection>
+        <mods:mods>
+            <mods:name type="personal" authority="NAF">
+                <mods:namePart>Feeney, Philip</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator">Composer</mods:roleTerm>
+                </mods:role>            
+            </mods:name>
+            <mods:name type="personal" authority="NAF">
+                <mods:namePart>Pryce-Jones, John</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator">Conductor</mods:roleTerm>
+                </mods:role>
+            </mods:name>        
+            <mods:typeOfResource>sound recording-musical</mods:typeOfResource>
+            <mods:genre authority="LCSH">Ballets (music)</mods:genre>
+            <mods:genre authority="LCSH">Vampires--Drama</mods:genre>
+            <mods:subject>
+                <mods:geographic authority="marccountry">Romania</mods:geographic>
+            </mods:subject>
+            <mods:originInfo>
+                <mods:dateCreated>November 1996</mods:dateCreated>
+                <mods:dateIssued>February 3, 1997</mods:dateIssued>
+                <mods:dateCaptured>August 28-31, 1996</mods:dateCaptured>
+                <mods:publisher>Naxos Digital Services</mods:publisher>
+                <mods:place>
+                    <mods:placeTerm authority="marccountry">Germany</mods:placeTerm>
+                </mods:place>
+            </mods:originInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="rfc5646">ro</mods:languageTerm>
+            </mods:language>
+            <mods:physicalDescription>
+                <mods:form type="technique" authority="aat">sound recording</mods:form>
+                <mods:form type="material" authority="aat">compact disc</mods:form>
+                <mods:extent>1 compact disc (79 min.)</mods:extent>
+            </mods:physicalDescription>
+            <mods:abstract>Philip Feeney's second full-length ballet for Northern Ballet Theatre. 3 Act Ballet for full orchestra, with pre-recorded tape (with the chorus of Opera North, soprano: Pauline Thulborn).</mods:abstract>
+            <mods:note>Recorded by the Northern Ballet Theatre Orchestra, conducted by John Pryce-Jones.</mods:note>
+            <mods:location>
+                <mods:physicalLocation>Fake University, Special Collections Research Center</mods:physicalLocation>
+                <mods:holdingSimple>
+                    <mods:copyInformation>
+                        <mods:subLocation>Dracula Special Collection Room</mods:subLocation>
+                        <mods:shelfLocator>Aisle 3A, Shelf 5</mods:shelfLocator>
+                    </mods:copyInformation>
+                </mods:holdingSimple>
+            </mods:location>
+            <mods:recordInfo>
+                <mods:recordCreationDate>July 26, 2018</mods:recordCreationDate>
+                <mods:recordOrigin>human generated</mods:recordOrigin>
+            </mods:recordInfo>
+        </mods:mods>
+    </cd:modsSection>
+    
+    <cd:dcSection>
+        <dc:source>Bram Stoker's Dracula</dc:source>
+    </cd:dcSection>
+    
+    </cd:Count_Dracula>
+    
+    
