@@ -127,7 +127,6 @@
             <mods:recordInfo>
                 <mods:recordCreationDate>July 1, 2018</mods:recordCreationDate>
                 <mods:recordOrigin>human generated</mods:recordOrigin>
-                <mods:recordIdentifier>X</mods:recordIdentifier>
             </mods:recordInfo>
         </mods:mods>
     </cd:modsSection>
