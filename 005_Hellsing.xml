@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cd:Count_Dracula xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://github.com/sarlerner/draculacollection https://raw.githubusercontent.com/sarlerner/draculacollection/master/DraculaSchema.xsd"
+    xmlns:cd="https://github.com/sarlerner/draculacollection" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <cd:Id>CD_MA_005.2003</cd:Id>
+    <cd:title>Hellsing vol. 1</cd:title>
+    <cd:bsdRelation>Follows</cd:bsdRelation>
+    
+    
+    <cd:modsSection>
+        <mods:mods>
+            <mods:name type="personal" authority="NAF preferred">
+                <mods:namePart>Hirano, Kohta, 1973-</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator">Author</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:genre authority="LCSH">Vampires</mods:genre>
+            <mods:subject>
+                <mods:geographic authority="marccountry">enk</mods:geographic>
+                <mods:temporal>Near Future</mods:temporal>
+            </mods:subject>
+            <mods:originInfo>
+                <mods:dateCreated>1997</mods:dateCreated>
+                <mods:dateIssued>2003</mods:dateIssued>
+                <mods:publisher>Dark Horse Comics, 2004</mods:publisher>
+                <mods:place>
+                    <mods:placeTerm authority="marccountry">xxu</mods:placeTerm>
+                    <mods:placeTerm authority="marccountry">ja</mods:placeTerm>
+                </mods:place>
+            </mods:originInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="rfc5646">en</mods:languageTerm>
+            </mods:language>
+            <mods:physicalDescription>
+                <mods:form type="object" authority="aat">manga (comic books)</mods:form>
+                <mods:extent>204 pages : illustrations ; 19 cm</mods:extent>
+            </mods:physicalDescription>
+            <mods:abstract>Japanese manga translated into English about a covert government agency in England named after Abraham Van Helsing, which carries on his mission to protect queen and country from vampires and ghouls. Right to left reading format. "For readers 13+, violence, mild language"—from back cover.</mods:abstract>
+            <mods:location>
+                <mods:physicalLocation>Fake University, Special Collections Research Center</mods:physicalLocation>
+                <mods:holdingSimple>
+                    <mods:copyInformation>
+                        <mods:subLocation>Dracula Special Collections Room</mods:subLocation>
+                        <mods:shelfLocator>Aisle 2B, Shelf 5</mods:shelfLocator>
+                    </mods:copyInformation>
+                </mods:holdingSimple>
+            </mods:location>
+            <mods:recordInfo>
+                <mods:recordCreationDate>July 26, 2018</mods:recordCreationDate>
+                <mods:recordOrigin>human generated</mods:recordOrigin>
+            </mods:recordInfo>
+        </mods:mods>
+    </cd:modsSection>
+    
+    <cd:dcSection>
+        <dc:source>ヘルシング, Herushingua</dc:source>
+    </cd:dcSection>
+</cd:Count_Dracula>
