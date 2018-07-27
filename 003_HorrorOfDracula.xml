@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cd:Count_Dracula xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://github.com/sarlerner/draculacollection https://raw.githubusercontent.com/sarlerner/draculacollection/master/DraculaSchema.xsd"
+    xmlns:cd="https://github.com/sarlerner/draculacollection"
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    
+    <cd:Id>CD_DVD_003.1958</cd:Id>
+    <cd:title>Dracula</cd:title>
+    <cd:dracula>Lee, Christopher, 1922-2015</cd:dracula>
+    <cd:bsdRelation>Film Adaptation</cd:bsdRelation>
+    
+    <cd:modsSection>
+        <mods:mods>
+            <mods:titleInfo type="uniform" authority="ulan">
+                <mods:title>Horror of Dracula (Motion picture : 1958)</mods:title>
+                <mods:title>Horror of Dracula</mods:title>
+            </mods:titleInfo>
+            
+            
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Fisher, Terence, 1904-1980</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="code">fmd</mods:roleTerm>
+                    <mods:roleTerm authority="marcrelator" type="text">film director</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Lee, Christopher, 1922-2015</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="code">act</mods:roleTerm>
+                    <mods:roleTerm authority="marcrelator" type="text">actor</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Cushing, Peter 1913-1994</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="code">act</mods:roleTerm>
+                    <mods:roleTerm authority="marcrelator" type="text">actor</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Gough, Michael, 1916-2011</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="code">act</mods:roleTerm>
+                    <mods:roleTerm authority="marcrelator" type="text">actor</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Stribling, Melissa, 1927-1992</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="code">act</mods:roleTerm>
+                    <mods:roleTerm authority="marcrelator" type="text">actor</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Sangster, Jimmy</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="code">aus</mods:roleTerm>
+                    <mods:roleTerm authority="marcrelator" type="text">screen writer</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            
+            <mods:typeOfResource>moving image</mods:typeOfResource>
+            
+            <mods:originInfo>
+                <mods:dateCreated>1958</mods:dateCreated>
+                <mods:place>
+                    <mods:placeTerm authority="marccountry">enk</mods:placeTerm>
+                </mods:place>
+            </mods:originInfo>
+            
+            <mods:language>
+                <mods:languageTerm authority="rfc5646">en</mods:languageTerm>
+            </mods:language>
+            
+            <mods:physicalDescription>
+                <mods:form type="technique" authority="aat">motion picture (visual works)</mods:form>
+                <mods:form type="material" authority="aat">dvd</mods:form>
+            </mods:physicalDescription>
+            
+            <mods:abstract displayLabel="contentDescription">Hammer Films made an indelible mark on Dracula movies with a more sensual and gorey take on the original novel, and the imposing Christopher Lee as Dracula. 82 Minutes.
+            </mods:abstract>
+            
+            <mods:subject>
+                <mods:topic authority="lcsh">Vampires</mods:topic>
+            </mods:subject>
+            <mods:subject>
+                <mods:topic authority="lcsh">Vampires--fiction</mods:topic>
+            </mods:subject>
+            <mods:subject>
+                <mods:topic authority="lcsh">Horror</mods:topic>
+            </mods:subject>
+            <mods:subject>
+                <mods:topic authority="lcsh">Dracula, Count (Fictitious character)</mods:topic>
+            </mods:subject>
+            
+            <mods:relatedItem type="original">
+                <mods:titleInfo type="uniform" authority="lcsh">
+                    <mods:title>Stoker, Bram, 1847-1912. Dracula.</mods:title>
+                    <mods:title>Dracula</mods:title>
+                </mods:titleInfo>
+            </mods:relatedItem>
+            
+            <mods:location>
+                <mods:physicalLocation>Fake University, Special Collections Research Center</mods:physicalLocation>
+                <mods:holdingSimple>
+                    <mods:copyInformation>
+                        <mods:subLocation>Dracula Special Collections Room</mods:subLocation>
+                        <mods:shelfLocator>Aisle 3A, Shelf 3</mods:shelfLocator>
+                    </mods:copyInformation>
+                </mods:holdingSimple>
+            </mods:location>
+            
+            <mods:recordInfo>
+                <mods:recordCreationDate>July 24, 2018</mods:recordCreationDate>
+                <mods:recordOrigin>human generated</mods:recordOrigin>
+            </mods:recordInfo>
+        </mods:mods>
+    </cd:modsSection>
+    
+    <cd:dcSection>
+        <dc:format xsi:type="dcterms:IMT">DVD</dc:format>
+    </cd:dcSection>
+    
+</cd:Count_Dracula>
+
