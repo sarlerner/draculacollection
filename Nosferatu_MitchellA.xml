@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cd:Count_Dracula xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://github.com/sarlerner/draculacollection https://raw.githubusercontent.com/sarlerner/draculacollection/master/DraculaSchema.xsd"
+    xmlns:cd="https://github.com/sarlerner/draculacollection"
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+    <cd:Id>CD_DVD_001.1922</cd:Id>
+    <cd:title>Nosferatu</cd:title>
+    <cd:dracula>Schreck, Max, 1879-1936</cd:dracula>
+    <cd:bsdRelation>Retelling</cd:bsdRelation>
+
+    <cd:modsSection>
+        <mods:mods>
+            <mods:titleInfo type="uniform" authority="ulan">
+                <mods:title>Nosferatu (Motion picture : 1922)</mods:title>
+                <mods:subTitle lang="de">Nosferatu, eine Symphonie des Grauens</mods:subTitle>
+            </mods:titleInfo>
+            <mods:titleInfo>
+                <mods:title>Nosferatu</mods:title>
+            </mods:titleInfo>
+
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Murnau, F. W. (German filmmaker, 1888-1931)</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm>film directors</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Schreck, Max, 1879-1936</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm>actors (performing artists)</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Galeen, Henrik, 1881-1949</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm>screen writers</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+
+
+            <mods:typeOfResource>moving image</mods:typeOfResource>
+
+            <mods:subject>
+                <mods:genre authority="lcsh">Vampires</mods:genre>
+                <mods:genre authority="lcsh">Vampire Films</mods:genre>
+            </mods:subject>
+            <mods:subject>
+                <mods:genre authority="lcsh">Silent Films</mods:genre>
+            </mods:subject>
+            <mods:originInfo>
+                <mods:dateCreated>1922</mods:dateCreated>
+                <mods:place>
+                    <mods:placeTerm>Germany</mods:placeTerm>
+                </mods:place>
+            </mods:originInfo>
+
+            <mods:language>
+                <mods:languageTerm authority="rfc5646">en</mods:languageTerm>
+                <mods:scriptTerm>intertitles</mods:scriptTerm>
+            </mods:language>
+            <mods:language>
+                <mods:languageTerm authority="rfc5646">de</mods:languageTerm>
+            </mods:language>
+
+            <mods:physicalDescription>
+                <mods:form type="technique" authority="aat">motion picture (visual works)</mods:form>
+                <mods:form type="material" authority="aat">dvd</mods:form>
+            </mods:physicalDescription>
+
+            <mods:abstract displayLabel="contentDescription">One of the first horror films ever produced. This film attempts to retell an abridged and altered Dracula. A fantastic example of German Expressionist film with a riveting performance by Max Shreck. 1 disc. 96 minutes.
+    </mods:abstract>
+
+            <mods:targetAudience authority="marcTarget">general</mods:targetAudience>
+
+            <mods:subject>
+                <mods:topic authority="lcsh">Vampires</mods:topic>
+                <mods:topic authority="lcsh">Vampires--fiction</mods:topic>
+            </mods:subject>
+            <mods:subject>
+                <mods:topic authority="lcsh">Horror</mods:topic>
+                <mods:topic authority="lcsh">Count Orlok</mods:topic>
+            </mods:subject>
+
+            <mods:relatedItem type="original">
+                <mods:titleInfo type="uniform" authority="lcsh">
+                    <mods:title>Stoker, Bram, 1847-1912. Dracula.</mods:title>
+                </mods:titleInfo>
+            </mods:relatedItem>
+
+            <mods:identifier type="imdb">https://www.imdb.com/title/tt0013442/?ref_=rvi_tt</mods:identifier>
+            <mods:identifier type="local">CD_DVD_001.1922</mods:identifier>
+
+            <mods:location>
+                <mods:physicalLocation>Fake University, Special Collections Research Center</mods:physicalLocation>
+                <mods:holdingSimple>
+                    <mods:copyInformation>
+                        <mods:subLocation>Dracula Special Collections Room</mods:subLocation>
+                        <mods:shelfLocator>Aisle 3A, Shelf 2</mods:shelfLocator>
+                    </mods:copyInformation>
+                </mods:holdingSimple>
+            </mods:location>
+
+
+            <mods:recordInfo>
+                <mods:recordCreationDate>June 26, 2018</mods:recordCreationDate>
+                <mods:recordOrigin>human generated</mods:recordOrigin>
+            </mods:recordInfo>
+        </mods:mods>
+    </cd:modsSection>
+
+    <cd:dcSection>
+        <dc:source>Bram Stoker's Dracula</dc:source>
+        <dc:format xsi:type="dcterms:IMT">DVD</dc:format>
+    </cd:dcSection>
+
+</cd:Count_Dracula>
