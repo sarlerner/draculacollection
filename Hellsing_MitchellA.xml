@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/">
+    
+    <dc:title>Hellsing vol. 1</dc:title>
+    <dc:creator>Hirano, Kohta, 1973-</dc:creator>
+    <dc:subject xsi:type="dcterms:LCSH">Horror</dc:subject>
+    <dc:subject xsi:type="dcterms:LCSH">Vampire films</dc:subject>
+    <dc:description>Japanese manga translated into English about a covert government agency in England named after Abraham Van Helsing, which carries on his mission to protect queen and country from vampires and ghouls. Right to left reading format. "For readers 13+, violence, mild language"—from back cover.</dc:description>
+    <dc:publisher>Dark Horse Manga, a division of Dark Horse Comics</dc:publisher>
+    <dc:contributor>Johnson, Duane</dc:contributor>
+    <dc:date xsi:type="dcterms:W3CDTF">2003</dc:date>
+    <dc:type xsi:type="dcterms:DCMIType">Physical Object</dc:type>
+    <dc:format>Text</dc:format>
+    <dc:identifier>9781593070564</dc:identifier>
+    <dc:language xsi:type="dcterms:ISO639-3">eng</dc:language>
+    <dcterms:isVersionOf>ヘルシング, Herushingu</dcterms:isVersionOf>
+    <dcterms:audience>Ages 13+</dcterms:audience>
+    <dcterms:accrualmethod>Purchase</dcterms:accrualmethod>
+    <dc:identifier>Fake University, Special Collections Research Center</dc:identifier>
+    <dc:identifer>Dracula Special Collection Room</dc:identifer> 
+    <dc:identifier>Aisle 2B, Shelf 5</dc:identifier>
+    <dc:source>July 24, 2018</dc:source>
+    <dc:source>human generated</dc:source>
+    <dc:source>Bram Stoker's Dracula</dc:source>
+    
+    
+    
+</metadata>
