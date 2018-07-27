@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
+    
+    <dc:identifier>CD_DVD_007.1974</dc:identifier>
+    <dc:title>Blood for Dracula</dc:title>
+    <dcterms:alternative>Blood for Dracvla</dcterms:alternative>
+    <dcterms:alternative>Andy Warhol's Dracula</dcterms:alternative>
+    <dc:contributor>Kier, Udo</dc:contributor>
+    <dc:relation>After</dc:relation>
+    
+            <dc:creator>Morrissey, Paul, 1938-</dc:creator>
+            <dc:contributor>Warhol, Andy, 1928-1987</dc:contributor>
+            <dc:contributor>Braunsberg, Andrew</dc:contributor>        
+            <dc:format>moving image</dc:format>
+            <dc:subject authority="lcsh">Feature films</dc:subject>
+            <dc:subject authority="lcsh">Fiction films</dc:subject>
+            <dc:subject authority="lcsh">Dracula films</dc:subject>
+            <dc:subject authority="lcsh">Horror films</dc:subject>
+            <dc:subject authority="lcsh">Vampires--Drama</dc:subject>
+            <dcterms:spatial authority="marccountry">it</dcterms:spatial>
+            <dcterms:temporal authority="naf">Early 20th century</dcterms:temporal>
+            <dc:date>>December 15, 1998</dc:date>
+            <dc:publisher>Criterion</dc:publisher>
+            <dc:language>
+                <dc:languageTerm type="code" authority="rfc5646">en-US</dc:languageTerm>
+            </dc:language>
+            <dc:format xsi:type="technique" authority="aat">motion picture (visual works)</dc:format>
+            <dc:format xsi:type="material" authority="aat">dvd</dc:format>
+            <dcterms:extent>1 dvd disc (103 min.)</dcterms:extent>
+            <dc:description>Paul Morrissey's moralistic take on modern values. In Blood for Dracula, the infamous count searches Italy for virgin blood. Director's cut in a widescreen transfer.</dc:description>
+            <dc:description>Special features include: audio commentary by Paul Morrissey, star Udo Kier, and film historian Maurice Yacowar; stills gallery of publicity and production photos, featuring excerpts from the Claudio Gizzi score in stereo.</dc:description>
+            <dc:relation>
+                <dc:title>Dracula</dc:title>
+                <dc:creator>Stoker, Bram, 1847-1912</dc:creator>
+                <dc:date>1897</dc:date>
+            </dc:relation>
+            <dc:identifier>Fake University, Special Collections Research Center</dc:identifier>
+            <dc:identifer>Dracula Special Collection Room</dc:identifer>  
+            <dc:identifier>Aisle 3A, Shelf 2</dc:identifier>
+            <dc:source>July 24, 2018</dc:source>
+            <dc:source>human generated</dc:source>
+            <dc:source>Bram Stoker's Dracula</dc:source>   
+</metadata>
