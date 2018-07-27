@@ -10,7 +10,7 @@
     
     <cd:modsSection>
         <mods:mods>
-            <mods:name type="personal" authority="NAF">
+            <mods:name type="personal" authority="NAF preferred">
                 <mods:namePart>Stoker, Bram, 1847-1912</mods:namePart>
                 <mods:role>
                     <mods:roleTerm type="text" authority="marcrelator">Author</mods:roleTerm>
@@ -35,7 +35,7 @@
                 <mods:languageTerm type="code" authority="rfc5646">en</mods:languageTerm>
             </mods:language>
             <mods:physicalDescription>
-                <mods:form type="material" authority="aat">paperback</mods:form>
+                <mods:form type="object" authority="aat">paperback</mods:form>
                 <mods:extent>484 pages ; 5.3x1.1x7.3 in.</mods:extent>
             </mods:physicalDescription>
             <mods:abstract>An unabridged edition of the original Dracula novel, written by Bram Stoker.</mods:abstract>

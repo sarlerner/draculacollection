@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cd:Count_Dracula xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://github.com/sarlerner/draculacollection https://raw.githubusercontent.com/sarlerner/draculacollection/master/DraculaSchema.xsd"
+    xmlns:cd="https://github.com/sarlerner/draculacollection" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <cd:Id>CD_BK_015.1819</cd:Id>
+    <cd:title>The Vampyre</cd:title>
+    <cd:dracula>Lord Ruthven</cd:dracula>
+    <cd:dracula>Byron, George Gordon Byron, Baron, 1788-1824</cd:dracula>
+    <cd:bsdRelation>Before</cd:bsdRelation>
+        
+    <cd:modsSection>
+        <mods:mods>
+            <mods:name type="personal" authority="NAF">
+                <mods:namePart>Polidori, John William, 1795-1821</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator">Author</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Byron, George Gordon Byron, Baron, 1788-1824</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator">associated name</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Mitford, John, 1782-1831</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator">attributed name</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:genre authority="LCSH">Vampires--Drama</mods:genre>
+            <mods:subject>
+                <mods:geographic authority="marccountry">Italy</mods:geographic>
+                <mods:geographic authority="marccountry">Greece</mods:geographic>
+                <mods:geographic authority="marccountry">England</mods:geographic>
+                <mods:temporal>Early 19th Century</mods:temporal>
+            </mods:subject>
+            <mods:originInfo>
+                <mods:dateCreated>1819</mods:dateCreated>
+                <mods:dateIssued>2017</mods:dateIssued>
+                <mods:publisher>Loki's Publishing</mods:publisher>
+                <mods:place>
+                    <mods:placeTerm authority="marccountry">England</mods:placeTerm>
+                </mods:place>
+            </mods:originInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="rfc5646">en</mods:languageTerm>
+            </mods:language>
+            <mods:physicalDescription>
+                <mods:form type="object" authority="aat">paperback</mods:form>
+                <mods:extent>58 pages</mods:extent>
+            </mods:physicalDescription>
+            <mods:abstract>A novella, and one of the first works of literature in the Vampire Romance genre. Writen by John William Polidori and based on a fragment writen by Lord Byron in 1816 at Lake Geneva, during the same trip that inspired Mary Shelley's Frankenstein. Polidori first published the story as "The Vampyre: A Tale by Lord Byron" without Byron's permission.</mods:abstract>
+            <mods:note>The "Extract of a letter to the editor" (pages v-xvi) and "Extract of a letter, containing an account of Lord Byron's residence in the island of Mitylene" (pages 73-84) have been ascribed to John Mitford, R.N. See British Museum Catalogue and Notes &#38; queries, 3d series, volume 7, page 201.</mods:note>
+            <mods:location>
+                <mods:physicalLocation>Fake University, Special Collections Research Center</mods:physicalLocation>
+                <mods:holdingSimple>
+                    <mods:copyInformation>
+                        <mods:subLocation>Dracula Special Collections Room</mods:subLocation>
+                        <mods:shelfLocator>Aisle 1A, Shelf 1</mods:shelfLocator>
+                    </mods:copyInformation>
+                </mods:holdingSimple>
+            </mods:location>
+            <mods:recordInfo>
+                <mods:recordCreationDate>July 26, 2018</mods:recordCreationDate>
+                <mods:recordOrigin>human generated</mods:recordOrigin>
+            </mods:recordInfo>
+        </mods:mods>
+    </cd:modsSection>
+    
+</cd:Count_Dracula>

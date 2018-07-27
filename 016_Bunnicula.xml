@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cd:Count_Dracula xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://github.com/sarlerner/draculacollection https://raw.githubusercontent.com/sarlerner/draculacollection/master/DraculaSchema.xsd"
+    xmlns:cd="https://github.com/sarlerner/draculacollection" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <cd:Id>CD_BK_016.2013</cd:Id>
+    <cd:title>Bunnicula in a Box</cd:title>
+    <cd:dracula>Bunnicula</cd:dracula>
+    <cd:bsdRelation>After</cd:bsdRelation>
+    
+    <cd:modsSection>
+        <mods:mods>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Howe, James, 1946-</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator">author</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Howe, Deborah, 1946-1978</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator">author</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Payne, C. F.</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator">illustrator</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:genre authority="LCSH">Children's literature</mods:genre>
+            <mods:subject>
+                <mods:temporal>Late 20th, early 21st century</mods:temporal>
+            </mods:subject>
+            <mods:originInfo>
+                <mods:dateCreated>2006</mods:dateCreated>
+                <mods:dateIssued>August 27, 2013</mods:dateIssued>
+                <mods:publisher>Atheneum Books for Young Readers</mods:publisher>
+            </mods:originInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="rfc5646">en</mods:languageTerm>
+            </mods:language>
+            <mods:physicalDescription>
+                <mods:form type="object" authority="aat">series</mods:form>
+                <mods:extent>1136 pages ; 5.1x3.2x7.6 in</mods:extent>
+            </mods:physicalDescription>
+            <mods:abstract>A boxed set of the "Bunnicula and Friends" series featuring the adventures of Bunnicula, a vampire rabbit that sucks the juice out of vegetables. This complete collection includes paperback editions of Bunnicula, Howliday Inn, The Celery Stalks at Midnight, Nighty-Nightmare, Return to Howliday Inn, Bunnicula Strikes Again, and Bunnicula Meets Edgar Allan Crow.</mods:abstract>
+            <mods:relatedItem type="series">
+                <mods:titleInfo>
+                    <mods:title>Bunnicula and Friends</mods:title>
+                </mods:titleInfo>
+            </mods:relatedItem>
+            <mods:relatedItem type="constituent">
+                <mods:titleInfo>
+                    <mods:title>Bunnicula</mods:title>
+                    <mods:subTitle>A Rabbit-Tale of Mystery</mods:subTitle>
+                </mods:titleInfo>
+                <mods:originInfo>
+                    <mods:dateIssued>1979</mods:dateIssued>
+                </mods:originInfo>
+            </mods:relatedItem>
+            <mods:relatedItem type="constituent">
+                <mods:titleInfo>
+                    <mods:title>Howliday Inn</mods:title>
+                </mods:titleInfo>
+                <mods:originInfo>
+                    <mods:dateIssued>1982</mods:dateIssued>
+                </mods:originInfo>
+            </mods:relatedItem>
+            <mods:relatedItem type="constituent">
+                <mods:titleInfo>
+                    <mods:title>The Celery Stalks at Midnight</mods:title>
+                </mods:titleInfo>
+                <mods:originInfo>
+                    <mods:dateIssued>1983</mods:dateIssued>
+                </mods:originInfo>
+            </mods:relatedItem>
+            <mods:relatedItem type="constituent">
+                <mods:titleInfo>
+                    <mods:title>Nighty-Nightmare</mods:title>
+                </mods:titleInfo>
+                <mods:originInfo>
+                    <mods:dateIssued>1987</mods:dateIssued>
+                </mods:originInfo>
+            </mods:relatedItem>
+            <mods:relatedItem type="constituent">
+                <mods:titleInfo>
+                    <mods:title>Return to the Howliday Inn</mods:title>
+                </mods:titleInfo>
+                <mods:originInfo>
+                    <mods:dateIssued>1992</mods:dateIssued>
+                </mods:originInfo>
+            </mods:relatedItem>
+            <mods:relatedItem type="constituent">
+                <mods:titleInfo>
+                    <mods:title>Bunnicula Strikes Again</mods:title>
+                </mods:titleInfo>
+                <mods:originInfo>
+                    <mods:dateIssued>1999</mods:dateIssued>
+                </mods:originInfo>
+            </mods:relatedItem>
+            <mods:relatedItem type="constituent">
+                <mods:titleInfo>
+                    <mods:title>Bunnicula Meets Edgar Allan Crow</mods:title>
+                </mods:titleInfo>
+                <mods:originInfo>
+                    <mods:dateIssued>2006</mods:dateIssued>
+                </mods:originInfo>
+            </mods:relatedItem>
+            <mods:location>
+                <mods:physicalLocation>Fake University, Special Collections Research Center</mods:physicalLocation>
+                <mods:holdingSimple>
+                    <mods:copyInformation>
+                        <mods:subLocation>Dracula Special Collections Room</mods:subLocation>
+                        <mods:shelfLocator>Aisle 1B, Shelf 1</mods:shelfLocator>
+                    </mods:copyInformation>
+                </mods:holdingSimple>
+            </mods:location>
+            <mods:recordInfo>
+                <mods:recordCreationDate>July 26, 2018</mods:recordCreationDate>
+                <mods:recordOrigin>human generated</mods:recordOrigin>
+            </mods:recordInfo>
+        </mods:mods>
+    </cd:modsSection>
+    
+</cd:Count_Dracula>

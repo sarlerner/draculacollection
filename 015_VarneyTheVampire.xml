@@ -4,31 +4,41 @@
     xmlns:cd="https://github.com/sarlerner/draculacollection" xmlns:mods="http://www.loc.gov/mods/v3"
     xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <cd:Id>CD_BK_013.1871</cd:Id>
-    <cd:title>Carmilla</cd:title>
-    <cd:dracula>Mircalla, Countess Karnstein</cd:dracula>
+    <cd:Id>CD_BK_015.1847</cd:Id>
+    <cd:title>The Vampyre</cd:title>
+    <cd:title>The Feast of Blood</cd:title>
+    <cd:dracula>Sir Francis Varney</cd:dracula>
     <cd:bsdRelation>Before</cd:bsdRelation>
     
     <cd:modsSection>
         <mods:mods>
-            <mods:name type="personal" authority="NAF">
-                <mods:namePart>Le Fanu, Joseph Sheridan, 1814-1873</mods:namePart>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Prest, Thomas Peckett</mods:namePart>
                 <mods:role>
-                    <mods:roleTerm type="text" authority="marcrelator">Author</mods:roleTerm>
+                    <mods:roleTerm type="text" authority="marcrelator">attributed name</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Rymer, James Malcolm, approximately 1814-1884</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator">attributed name</mods:roleTerm>
                 </mods:role>
             </mods:name>
             <mods:typeOfResource>text</mods:typeOfResource>
-            <mods:genre authority="LCSH">Lesbian vampires</mods:genre>
+            <mods:genre authority="LCSH">Vampires--Fiction</mods:genre>
+            <mods:genre authority="LCSH">Gothic fiction (Literary genre)</mods:genre>
             <mods:subject>
-                <mods:geographic authority="marccountry">Austria</mods:geographic>
+                <mods:geographic authority="marccountry">Italy</mods:geographic>
+                <mods:geographic authority="marccountry">Greece</mods:geographic>
+                <mods:geographic authority="marccountry">England</mods:geographic>
                 <mods:temporal>19th Century</mods:temporal>
             </mods:subject>
             <mods:originInfo>
-                <mods:dateCreated>1871-1872</mods:dateCreated>
-                <mods:dateIssued>2009</mods:dateIssued>
-                <mods:publisher>Serenity Publishers</mods:publisher>
+                <mods:dateCreated>1845-1847</mods:dateCreated>
+                <mods:dateIssued>2008</mods:dateIssued>
+                <mods:publisher>CreateSpace Independent Publishing Platform</mods:publisher>
                 <mods:place>
-                    <mods:placeTerm authority="marccountry">Ireland</mods:placeTerm>
+                    <mods:placeTerm authority="marccountry">England</mods:placeTerm>
                 </mods:place>
             </mods:originInfo>
             <mods:language>
@@ -36,15 +46,16 @@
             </mods:language>
             <mods:physicalDescription>
                 <mods:form type="object" authority="aat">paperback</mods:form>
-                <mods:extent>110 pages</mods:extent>
+                <mods:extent>58 pages</mods:extent>
             </mods:physicalDescription>
-            <mods:abstract>An early work of vampire fiction by Irish author Joseph Sheridan Le Fanu, predating Dracula by 26 years.</mods:abstract>
+            <mods:abstract>A vampire novel published originally as a penny dreadful that introduced many classic vampire tropes including sharpened teeth and hypnosis.</mods:abstract>
+            <mods:note>Authorship has been variously attributed to James Malcolm Rymer and Thomas Peckett Prest.</mods:note>
             <mods:location>
                 <mods:physicalLocation>Fake University, Special Collections Research Center</mods:physicalLocation>
                 <mods:holdingSimple>
                     <mods:copyInformation>
                         <mods:subLocation>Dracula Special Collections Room</mods:subLocation>
-                        <mods:shelfLocator>Aisle 1A, Shelf 1</mods:shelfLocator>
+                        <mods:shelfLocator>Aisle 1A, Shelf 2</mods:shelfLocator>
                     </mods:copyInformation>
                 </mods:holdingSimple>
             </mods:location>
@@ -54,5 +65,5 @@
             </mods:recordInfo>
         </mods:mods>
     </cd:modsSection>
-
+    
 </cd:Count_Dracula>
