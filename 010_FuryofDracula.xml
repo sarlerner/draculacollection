@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cd:Count_Dracula xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://github.com/sarlerner/draculacollection https://raw.githubusercontent.com/sarlerner/draculacollection/master/DraculaSchema.xsd"
+    xmlns:cd="https://github.com/sarlerner/draculacollection" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    
+    <cd:Id>CD_BG_010.2015</cd:Id>
+    <cd:title>Fury of Dracula</cd:title>
+    <cd:bsdRelation>After</cd:bsdRelation>
+    
+    <cd:modsSection>
+        <mods:mods>
+            <mods:name type="corporate" authority="naf">
+                <mods:namePart>Fantasy Flight Publishing</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm type="code" authority="marcrelator">pbl</mods:roleTerm>
+                        <mods:roleTerm type="text" authority="marcrelator">Publisher</mods:roleTerm>
+                </mods:role>
+            </mods:name>  
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Brooks, Frank</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="code" authority="marcrelator">dsr</mods:roleTerm>
+                    <mods:roleTerm type="text" authority="marcrelator">Designer</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Hand, Stephen</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="code" authority="marcrelator">dsr</mods:roleTerm>
+                    <mods:roleTerm type="text" authority="marcrelator">Designer</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Wilson, Kevin</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="code" authority="marcrelator">dsr</mods:roleTerm>
+                    <mods:roleTerm type="text" authority="marcrelator">Designer</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Beck, Chris</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="code" authority="marcrelator">art</mods:roleTerm>
+                    <mods:roleTerm type="text" authority="marcrelator">Artist</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Shimota, Samuel</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="code" authority="marcrelator">art</mods:roleTerm>
+                    <mods:roleTerm type="text" authority="marcrelator">Artist</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:typeOfResource>three dimensional object</mods:typeOfResource>
+            <mods:genre authority="LCSH">Board games</mods:genre>
+            <mods:genre authority="LCSH">Vampires--Fiction</mods:genre>
+            <mods:originInfo>
+                <mods:dateIssued>2015</mods:dateIssued>
+                <mods:publisher>Games Workshop Limited</mods:publisher>
+                <mods:edition>3rd ed.</mods:edition>
+            </mods:originInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="rfc5646">en-US</mods:languageTerm>
+            </mods:language>
+            <mods:physicalDescription>
+                <mods:form authority="aat">board games (activities)</mods:form>
+                <mods:extent>11.8" x 11.8" x 2.8"</mods:extent>
+            </mods:physicalDescription>
+            <mods:abstract>Board game based on Bram Stoker's Dracula. One player takes control of Count Dracula as he crosses Victorian-era Europe.</mods:abstract>
+            <mods:note>A game of deduction and gothic horror for 2-5 players. Highly thematic gameplay.</mods:note>
+            <mods:location>
+                <mods:physicalLocation>Fake University, Special Collections Research Center</mods:physicalLocation>
+                <mods:holdingSimple>
+                    <mods:copyInformation>
+                        <mods:subLocation>Dracula Special Collection Room</mods:subLocation>
+                        <mods:shelfLocator>Aisle 4A, Shelf 2</mods:shelfLocator>
+                    </mods:copyInformation>
+                </mods:holdingSimple>
+            </mods:location>
+            <mods:recordInfo>
+                <mods:recordCreationDate>July 26, 2018</mods:recordCreationDate>
+                <mods:recordOrigin>human generated</mods:recordOrigin>
+            </mods:recordInfo>
+        </mods:mods>
+    </cd:modsSection>
+    
+    <cd:dcSection>
+        <dc:source>Bram Stoker's Dracula</dc:source>
+    </cd:dcSection>
+    
+</cd:Count_Dracula>
+
+
+
+
