@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cd:Count_Dracula xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://github.com/sarlerner/draculacollection https://raw.githubusercontent.com/sarlerner/draculacollection/master/DraculaSchema.xsd"
+    xmlns:cd="https://github.com/sarlerner/draculacollection"
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+    <cd:Id>CD_DVD_003.2013</cd:Id>
+    <cd:title>What We Do in the Shadows</cd:title>
+    <cd:bsdRelation>Influenced By</cd:bsdRelation>
+
+    <cd:modsSection>
+        <mods:mods>
+            <mods:titleInfo authority="viaf">
+                <mods:title>What we do in the shadows</mods:title>
+            </mods:titleInfo>
+
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Clement, Jemaine</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="code">fmd</mods:roleTerm>
+                    <mods:roleTerm authority="marcrelator" type="text">film director</mods:roleTerm>
+                </mods:role>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="code">act</mods:roleTerm>
+                    <mods:roleTerm authority="marcrelator" type="text">actor</mods:roleTerm>
+                </mods:role>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="code">aus</mods:roleTerm>
+                    <mods:roleTerm authority="marcrelator" type="text">screen writer</mods:roleTerm>
+                </mods:role>
+                
+            </mods:name>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Waititi, Taika</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="code">fmd</mods:roleTerm>
+                    <mods:roleTerm authority="marcrelator" type="text">film director</mods:roleTerm>
+                </mods:role>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="code">act</mods:roleTerm>
+                    <mods:roleTerm authority="marcrelator" type="text">actor</mods:roleTerm>
+                </mods:role>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="code">aus</mods:roleTerm>
+                    <mods:roleTerm authority="marcrelator" type="text">screen writer</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Brugh, Jonathan</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="code">act</mods:roleTerm>
+                    <mods:roleTerm authority="marcrelator" type="text">actor</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Gonzalez-Macuer, Cori</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="code">act</mods:roleTerm>
+                    <mods:roleTerm authority="marcrelator" type="text">actor</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Michael, Emanuel</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="code">act</mods:roleTerm>
+                    <mods:roleTerm authority="marcrelator" type="text">actor</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+
+            <mods:typeOfResource>moving image</mods:typeOfResource>
+
+            <mods:originInfo>
+                <mods:dateCreated>2014</mods:dateCreated>
+                <mods:place>
+                    <mods:placeTerm authority="marccountry">nz</mods:placeTerm>
+                </mods:place>
+            </mods:originInfo>
+
+            <mods:language>
+                <mods:languageTerm authority="rfc5646">en</mods:languageTerm>
+            </mods:language>
+
+            <mods:physicalDescription>
+                <mods:form type="technique" authority="aat">motion picture (visual works)</mods:form>
+                <mods:form type="material" authority="aat">dvd</mods:form>
+            </mods:physicalDescription>
+
+            <mods:abstract displayLabel="contentDescription">A New Zealand comedy which satirizes various incarnations of the Dracula myth by placing three of  them in a modern setting. 86 minutes.  
+    </mods:abstract>
+
+            <mods:subject>
+                <mods:topic authority="lcsh">Vampires</mods:topic>
+                <mods:genre authority="fast">Vampires--New Zealand--films</mods:genre>
+            </mods:subject>
+            <mods:subject>
+                <mods:topic authority="lcsh">Horror</mods:topic>
+            </mods:subject>
+
+            <mods:relatedItem type="preceding">
+                <mods:titleInfo type="uniform" authority="lcsh">
+                    <mods:title>Stoker, Bram, 1847-1912. Dracula.</mods:title>
+                    <mods:title>Dracula</mods:title>
+                </mods:titleInfo>
+            </mods:relatedItem>
+            <mods:relatedItem type="preceding">
+                <mods:titleInfo type="uniform" authority="lcsh">
+                    <mods:title>Nosferatu (Motion picture : 1922)</mods:title>
+                    <mods:subTitle lang="de">Nosferatu, eine Symphonie des Grauens</mods:subTitle>
+                </mods:titleInfo>
+                <mods:titleInfo>
+                    <mods:title>Nosferatu</mods:title>
+                </mods:titleInfo>
+            </mods:relatedItem>
+            <mods:relatedItem type="preceding">
+                <mods:titleInfo type="uniform" authority="lcsh">
+                    <mods:title>Stoker, Bram, 1847-1912. Dracula.</mods:title>
+                </mods:titleInfo>
+                <mods:titleInfo>
+                    <mods:title>Dracula</mods:title>
+                </mods:titleInfo>
+            </mods:relatedItem>
+
+            <mods:location>
+                <mods:physicalLocation>Fake University, Special Collections Research Center</mods:physicalLocation>
+                <mods:holdingSimple>
+                    <mods:copyInformation>
+                        <mods:subLocation>Dracula Special Collections Room</mods:subLocation>
+                        <mods:shelfLocator>Aisle 3A, Shelf 3</mods:shelfLocator>
+                    </mods:copyInformation>
+                </mods:holdingSimple>
+            </mods:location>
+
+            <mods:recordInfo>
+                <mods:recordCreationDate>July 4, 2018</mods:recordCreationDate>
+                <mods:recordOrigin>human generated</mods:recordOrigin>
+            </mods:recordInfo>
+        </mods:mods>
+    </cd:modsSection>
+
+    <cd:dcSection>
+        <dc:format xsi:type="dcterms:IMT">DVD</dc:format>
+    </cd:dcSection>
+
+</cd:Count_Dracula>
