@@ -87,6 +87,10 @@
             <mods:subject>
                 <mods:topic authority="lcsh">Dracula, Count (Fictitious character)</mods:topic>
             </mods:subject>
+            <mods:subject>
+                <mods:temporal>19th Century</mods:temporal>
+            </mods:subject>
+
             
             <mods:relatedItem type="original">
                 <mods:titleInfo type="uniform" authority="lcsh">
