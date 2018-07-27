@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cd:Count_Dracula xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://github.com/sarlerner/draculacollection https://raw.githubusercontent.com/sarlerner/draculacollection/master/DraculaSchema.xsd"
+    xmlns:cd="https://github.com/sarlerner/draculacollection"
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    
+    <cd:Id>CD_DVD_004.1992</cd:Id>
+    <cd:title>Bram Stoker's Dracula</cd:title>
+    <cd:dracula>Oldman, Gary 1958-</cd:dracula>
+    <cd:bsdRelation>Film Adaptation</cd:bsdRelation>
+    
+    <cd:modsSection>
+        <mods:mods>
+            <mods:titleInfo type="uniform" authority="ulan">
+                <mods:title>Bram Stoker's Dracula (Motion picture : 1992)</mods:title>
+                <mods:title>Bram Stoker's Dracula</mods:title>
+                <mods:title>Dracula (1992)</mods:title>
+            </mods:titleInfo>
+            
+            
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Coppola, Francis Ford, 1939-</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="code">fmd</mods:roleTerm>
+                    <mods:roleTerm authority="marcrelator" type="text">film director</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Oldman, Gary 1958-</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="code">act</mods:roleTerm>
+                    <mods:roleTerm authority="marcrelator" type="text">actor</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Ryder, Winona, 1971-	</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="code">act</mods:roleTerm>
+                    <mods:roleTerm authority="marcrelator" type="text">actor</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Hopkins, Anthony, 1937-</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="code">act</mods:roleTerm>
+                    <mods:roleTerm authority="marcrelator" type="text">actor</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Hart, James V.</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="code">aus</mods:roleTerm>
+                    <mods:roleTerm authority="marcrelator" type="text">screen writer</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            
+            <mods:typeOfResource>moving image</mods:typeOfResource>
+            
+            <mods:originInfo>
+                <mods:dateCreated>1992</mods:dateCreated>
+                <mods:place>
+                    <mods:placeTerm authority="marccountry">xxu</mods:placeTerm>
+                </mods:place>
+            </mods:originInfo>
+            
+            <mods:language>
+                <mods:languageTerm authority="rfc5646">en</mods:languageTerm>
+            </mods:language>
+            
+            <mods:physicalDescription>
+                <mods:form type="technique" authority="aat">motion picture (visual works)</mods:form>
+                <mods:form type="material" authority="aat">dvd</mods:form>
+            </mods:physicalDescription>
+            
+            <mods:abstract displayLabel="contentDescription">This artistic film adaptation reverted closer to the source material than its predecessors and examines themes of romance and mortality. Jonathan Harker travels to Transylvania to close a real-estate deal with Count Dracula who leaves Harker locked in his castle and travels to England in his place to steal his bride. 
+            </mods:abstract>
+            <mods:subject>
+                <mods:topic authority="lcsh">Vampires</mods:topic>
+            </mods:subject>
+            <mods:subject>
+                <mods:topic authority="lcsh">Vampires--fiction</mods:topic>
+            </mods:subject>
+            <mods:subject>
+                <mods:topic authority="lcsh">Horror</mods:topic>
+            </mods:subject>
+            <mods:subject>
+                <mods:topic authority="lcsh">Dracula, Count (Fictitious character)</mods:topic>
+            </mods:subject>
+            
+            <mods:relatedItem type="original">
+                <mods:titleInfo type="uniform" authority="lcsh">
+                    <mods:title>Stoker, Bram, 1847-1912. Dracula.</mods:title>
+                    <mods:title>Dracula</mods:title>
+                </mods:titleInfo>
+            </mods:relatedItem>
+            
+            <mods:location>
+                <mods:physicalLocation>Fake University, Special Collections Research Center</mods:physicalLocation>
+                <mods:holdingSimple>
+                    <mods:copyInformation>
+                        <mods:subLocation>Dracula Special Collections Room</mods:subLocation>
+                        <mods:shelfLocator>Aisle 3A, Shelf 4</mods:shelfLocator>
+                    </mods:copyInformation>
+                </mods:holdingSimple>
+            </mods:location>
+            
+            <mods:recordInfo>
+                <mods:recordCreationDate>July 1, 2018</mods:recordCreationDate>
+                <mods:recordOrigin>human generated</mods:recordOrigin>
+            </mods:recordInfo>
+        </mods:mods>
+    </cd:modsSection>
+    
+    <cd:dcSection>
+        <dc:source>Bram Stoker's Dracula</dc:source>
+        <dc:format xsi:type="dcterms:IMT">DVD</dc:format>
+    </cd:dcSection>
+    
+</cd:Count_Dracula>
