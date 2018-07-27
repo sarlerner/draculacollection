@@ -23,19 +23,22 @@
             <mods:name type="personal" authority="naf">
                 <mods:namePart>Murnau, F. W. (German filmmaker, 1888-1931)</mods:namePart>
                 <mods:role>
-                    <mods:roleTerm>film directors</mods:roleTerm>
+                    <mods:roleTerm authority="marcrelator" type="code">fmd</mods:roleTerm>
+                    <mods:roleTerm authority="marcrelator" type="text">film director</mods:roleTerm>
                 </mods:role>
             </mods:name>
             <mods:name type="personal" authority="naf">
                 <mods:namePart>Schreck, Max, 1879-1936</mods:namePart>
                 <mods:role>
-                    <mods:roleTerm>actors (performing artists)</mods:roleTerm>
+                    <mods:roleTerm authority="marcrelator" type="code">act</mods:roleTerm>
+                    <mods:roleTerm authority="marcrelator" type="text">actor</mods:roleTerm>
                 </mods:role>
             </mods:name>
             <mods:name type="personal" authority="naf">
                 <mods:namePart>Galeen, Henrik, 1881-1949</mods:namePart>
                 <mods:role>
-                    <mods:roleTerm>screen writers</mods:roleTerm>
+                    <mods:roleTerm authority="marcrelator" type="code">aus</mods:roleTerm>
+                    <mods:roleTerm authority="marcrelator" type="text">screen writer</mods:roleTerm>
                 </mods:role>
             </mods:name>
 
@@ -52,7 +55,7 @@
             <mods:originInfo>
                 <mods:dateCreated>1922</mods:dateCreated>
                 <mods:place>
-                    <mods:placeTerm>Germany</mods:placeTerm>
+                    <mods:placeTerm authority="marccountry">gw</mods:placeTerm>
                 </mods:place>
             </mods:originInfo>
 
@@ -72,14 +75,14 @@
             <mods:abstract displayLabel="contentDescription">One of the first horror films ever produced. This film attempts to retell an abridged and altered Dracula. A fantastic example of German Expressionist film with a riveting performance by Max Shreck. 1 disc. 96 minutes.
     </mods:abstract>
 
-            <mods:targetAudience authority="marcTarget">general</mods:targetAudience>
-
             <mods:subject>
                 <mods:topic authority="lcsh">Vampires</mods:topic>
                 <mods:topic authority="lcsh">Vampires--fiction</mods:topic>
             </mods:subject>
             <mods:subject>
                 <mods:topic authority="lcsh">Horror</mods:topic>
+            </mods:subject>
+            <mods:subject>
                 <mods:topic authority="lcsh">Count Orlok</mods:topic>
             </mods:subject>
 
@@ -88,9 +91,6 @@
                     <mods:title>Stoker, Bram, 1847-1912. Dracula.</mods:title>
                 </mods:titleInfo>
             </mods:relatedItem>
-
-            <mods:identifier type="imdb">https://www.imdb.com/title/tt0013442/?ref_=rvi_tt</mods:identifier>
-            <mods:identifier type="local">CD_DVD_001.1922</mods:identifier>
 
             <mods:location>
                 <mods:physicalLocation>Fake University, Special Collections Research Center</mods:physicalLocation>
